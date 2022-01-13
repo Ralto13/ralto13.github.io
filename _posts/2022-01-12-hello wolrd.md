@@ -1,3 +1,11 @@
+---
+title: Hello world 게시글
+date: 2021-01-22 10:02:24 +0900
+categories: [git,blog]
+tags: gitblog
+---
+
+
 # 제목 1
 ## 제목 2
 ### 제목 3
@@ -30,7 +38,7 @@ __bold__
  * sub
  + sub
 
-[link] (https://naver.com "desc")
+[link](https://naver.com "desc")
 
 
 ```javascript
